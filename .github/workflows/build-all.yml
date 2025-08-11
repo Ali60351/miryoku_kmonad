@@ -11,28 +11,15 @@ jobs:
     with:
       mode: '["build"]'
       alphas: '[
-        "default",
-        "azerty",
-        "beakl15",
-        "colemak",
         "colemakdhk",
-        "dvorak",
-        "halmak",
-        "workman",
-        "qwerty",
-        "qwertz",
-        "workman"
+        "qwerty"
       ]'
       nav: '[
-        "default",
-        "invertedt",
-        "vi"
+        "default"
       ]'
       clipboard: '[
         "default",
-        "fun",
-        "mac",
-        "win"
+        "mac"
       ]'
       layers: '[
         "default",
@@ -40,11 +27,8 @@ jobs:
       ]'
       mapping: '[
         "default",
-        "noreverseangle",
         "lite"
       ]'
       kmonad_os: '[
-        "default",
-        "mac",
-        "win"
+        "mac"
       ]'
